@@ -127,7 +127,7 @@ This project is useful for:
 ## 📬 Author
 
 **Diya**
-Student | Data Analyst & Machine Learning enthusiast . 
+Data Analyst & Machine Learning enthusiast . 
 
 ---
 

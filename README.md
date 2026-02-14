@@ -87,7 +87,7 @@ The model is trained on a housing dataset and evaluated using common regression 
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/SCT_ML_1.git
+   git clone https://github.com/Diya805137/SCT_ML_1.git
    ```
 
 2. Install required libraries:
